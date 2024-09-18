@@ -1,3 +1,3 @@
-# GitHub
+# LeetCode
 
-This repository contains all the GitHub Problems.
+This repository contains all the LeetCode Problems.
